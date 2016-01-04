@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../data">
+   </FileRef>
+   <FileRef
       location = "self:product_attr_imputer.xcodeproj">
    </FileRef>
 </Workspace>
